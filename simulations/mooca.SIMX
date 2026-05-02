@@ -1,0 +1,57 @@
+<ENVI-MET_Datafile>
+<Header>
+<filetype>SIMX</filetype>
+<version>2</version>
+<revisiondate>20.05.2025 16:36:50</revisiondate>
+<remark></remark>
+<checksum>0</checksum>
+<encryptionlevel>0</encryptionlevel>
+</Header>
+  <mainData>
+     <simName> mooca </simName>
+     <INXFile> mooca.INX </INXFile>
+     <filebaseName> mooca </filebaseName>
+     <outDir> C:\Users\Harmonia\AppData\Roaming\ENVI-met\Workspace\Pinheiros\out_validation_1 </outDir>
+     <startDate> 01.08.2024 </startDate>
+     <startTime> 05:00:00 </startTime>
+     <simDuration> 48 </simDuration>
+     <windSpeed> 1.30000 </windSpeed>
+     <windDir> 150.00000 </windDir>
+     <z0> 0.80000 </z0>
+     <T_H> 293.00000 </T_H>
+     <Q_H> 6.11000 </Q_H>
+     <Q_2m> 50.00000 </Q_2m>
+     <windLimit> 5.00000 </windLimit>
+     <windAccuracy> standard </windAccuracy>
+     <scenario>  </scenario>
+  </mainData>
+  <Sources>
+     <userPolluName> My Pollutant </userPolluName>
+     <userPolluType> 0 </userPolluType>
+     <userPartDiameter> 10.00000 </userPartDiameter>
+     <userPartDensity> 1.00000 </userPartDensity>
+     <multipleSources> 1 </multipleSources>
+     <activeChem> 0 </activeChem>
+     <isoprene> 0 </isoprene>
+  </Sources>
+  <SimpleForcing>
+     <TAir> 295.35001,291.75000,291.45001,290.85001,290.04999,289.85001,289.95001,290.35001,292.04999,293.64999,297.04999,299.25000,301.14999,302.25000,303.35001,303.35001,302.64999,302.04999,300.45001,298.85001,297.75000,296.95001,296.04999,295.54999 </TAir>
+     <Qrel> 59.00000,57.00000,59.00000,60.00000,65.00000,66.00000,64.00000,62.00000,56.00000,51.00000,40.00000,35.00000,31.00000,29.00000,26.00000,27.00000,28.00000,29.00000,33.00000,37.00000,43.00000,46.00000,51.00000,56.00000 </Qrel>
+  </SimpleForcing>
+  <Clouds>
+     <lowClouds> 0.00000 </lowClouds>
+     <middleClouds> 0.00000 </middleClouds>
+     <highClouds> 0.00000 </highClouds>
+  </Clouds>
+  <Background>
+     <userSpec> 0.00000 </userSpec>
+     <NO> 46.00000 </NO>
+     <NO2> 49.00000 </NO2>
+     <O3> 0.00000 </O3>
+     <PM_10> 56.00000 </PM_10>
+     <PM_2_5> 20.00000 </PM_2_5>
+  </Background>
+  <Parallel>
+     <CPUdemand> ALL </CPUdemand>
+  </Parallel>
+</ENVI-MET_Datafile>
